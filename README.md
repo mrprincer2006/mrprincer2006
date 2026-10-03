@@ -1,316 +1,341 @@
-# Hi, I'm Prince Raj 👋
+<div align="center">
 
-> **Founder · Product Builder · Software Developer**
+⚡ PRINCE RAJ
 
-I build technology products across **AI, commerce, startup ecosystems, and software engineering**.
+Founder · Product Builder · Software Developer
 
-I’m interested in turning real-world problems into practical products — from defining the product and designing the user experience to building the underlying technology and taking it toward real users.
+I turn real-world problems into products, systems, and technology.
 
-Currently building **Monterus X, SRS Vault AI, and Niklit** while continuously improving my skills in software engineering, system design, AI, and product development.
+AI · Commerce · Startups · Software Engineering
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prince%20Raj-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/prince-raj-a15519301/)
+<br>
+<a href="https://www.linkedin.com/in/prince-raj-a15519301/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/">
+  <img src="https://img.shields.io/badge/GitHub-Explore-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:7C3AED&height=180&section=header&text=Build.%20Experiment.%20Ship.&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=55" width="100%" />
+</div>
 
----
+⸻
 
-## 🚀 What I Do
+🧭 About Me
 
-* 🏗️ **Build Products** — From idea → architecture → development → iteration
-* 🚀 **Build Startups** — Exploring products around AI, commerce & technology ecosystems
-* 💻 **Software Development** — Web, mobile, APIs and databases
-* 🤖 **AI Product Development** — Exploring practical applications of AI
-* 🧩 **Product Engineering** — Connecting business problems with technical solutions
-* 📈 **Continuous Learning** — DSA, system design, architecture and modern development
+I’m Prince Raj, a founder, product builder, and software developer focused on building technology products across:
 
----
+AI                 → Intelligent products & automation
+Commerce           → Local commerce & digital businesses
+Startup Ecosystems → Platforms connecting people & opportunities
+Software           → Web · Mobile · APIs · Databases
+Product Engineering → Ideas → Systems → Real Users
 
-# 🌐 Products I'm Building
+I enjoy working across the entire product lifecycle:
 
-## ⚡ Monterus X
+Problem → Research → Product → UX → Architecture → Development → Testing → Launch → Iteration
 
-### *Where Startups Meet Their People.*
+I don’t just want to write code.
 
-Monterus X is a startup ecosystem designed around **startups, investors, advertisers, creators, and developers**.
+I want to build things that people actually use.
 
-The vision is to create a digital ecosystem where startups can discover the right people, build visibility, access growth opportunities, and create stronger connections.
+⸻
 
-**Core Areas**
+🚀 What I’m Building
 
-`Startup Discovery` · `Investors` · `Advertising` · `Creators` · `Developers` · `Data` · `Wallet Infrastructure` · `Growth`
+<div align="center">
 
----
+Product	Focus	Status
+⚡ Monterus X	Startup Ecosystem	🚧 Building
+🧠 SRS Vault AI	Conversation Intelligence	🚧 Building
+🛍️ Niklit	Local Commerce	🚧 Building
 
-## 🧠 SRS Vault AI
+</div>
 
-### *AI-powered Conversation Intelligence*
+⸻
 
-SRS Vault AI focuses on transforming conversations into structured and actionable intelligence.
+⚡ Monterus X
 
-**Key Areas**
+Where Startups Meet Their People.
 
-* 🎙️ Consent-based conversation recording
-* 📝 AI transcription
-* 🤖 AI-generated summaries
-* ✅ Action items & follow-ups
-* 📊 Conversation analysis
-* 👤 Contact-specific conversation history
-* 💬 Conversation preparation
-* 🧠 Personalized communication insights
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1020,50:172554,100:312E81&height=120&section=header&text=MONTERUS%20X&fontSize=34&fontColor=ffffff&animation=fadeIn" width="100%" />
 
-The goal is to help people **understand conversations, remember important discussions, and turn conversations into meaningful actions.**
+Monterus X is a startup ecosystem designed around startups, investors, advertisers, creators, and developers.
 
----
+The vision is to create a digital ecosystem where startups can:
 
-## 🛍️ Niklit
+* Discover the right people
+* Build visibility
+* Find growth opportunities
+* Connect with talent and creators
+* Manage ecosystem activity
+* Build meaningful business relationships
 
-### *Discover Local. Shop Local. Grow Local.*
+🧩 Ecosystem
 
-Niklit is a **hyperlocal commerce platform** connecting local businesses with their customers.
+<div align="center">
 
-The long-term vision is to build a **digital operating system for local businesses across India**.
+STARTUPS　INVESTORS　ADVERTISERS　CREATORS　DEVELOPERS
 
-**Product Areas**
+</div>
 
-`Local Discovery` · `Digital Stores` · `Ordering` · `Payments` · `Rewards` · `CRM` · `Business Analytics` · `Customer Engagement`
+🔧 Core Infrastructure
 
----
+<div align="center">
 
-# 🛠️ Tech Stack
+🚀 Core Engine	🎨 Creator Dock	🗄️ Data Vault	💳 Wallet Ledger
+Startup infrastructure	Creator ecosystem	Data layer	Transaction infrastructure
 
-### 👨‍💻 Languages
+</div>
 
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
+⸻
 
-### 🎨 Frontend Development
+🧠 SRS Vault AI
 
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
+AI-powered Conversation Intelligence
 
-### ⚙️ Backend & APIs
-
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
-</p>
-
-### 🗄️ Databases & Caching
-
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-</p>
-
-### 🔐 Authentication & Application Architecture
-
-* JWT Authentication
-* OTP-based Authentication
-* Role-Based Access Control
-* REST API Architecture
-* Client-side State Management
-* API Integration
-* Protected Routes
-* Session & Token Management
-
-### 📱 Mobile Development
-
-<p>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
-</p>
-
-Building cross-platform applications with **React Native + Expo**, with a focus on reusable components and scalable application structure.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,50:312E81,100:4C1D95&height=120&section=header&text=SRS%20VAULT%20AI&fontSize=34&fontColor=ffffff&animation=fadeIn" width="100%" />
 
-### 🧰 Developer Tools
+SRS Vault AI transforms conversations into structured, searchable, and actionable intelligence.
 
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
-</p>
+🎙️ Capture
 
----
+Consent-based conversation recording and transcription.
 
-# 🧩 Core Engineering Skills
-
-### Frontend
+↓
 
-* React.js
-* React Native
-* Expo
-* TypeScript
-* JavaScript
-* Tailwind CSS
-* Responsive UI
-* Component Architecture
-* State Management
+🤖 Understand
 
-### Backend
+AI extracts:
 
-* Node.js
-* Express.js
-* REST APIs
-* Authentication
-* Authorization
-* API Integration
-* Server-side Architecture
-
-### Data
-
-* PostgreSQL
-* MongoDB
-* Redis
-* SQL
-* Database Design
-* Data Modeling
-
-### Engineering
-
-* Object-Oriented Programming
-* Data Structures & Algorithms
-* API Architecture
-* Authentication Systems
-* Role-Based Systems
-* Application Architecture
-* Git & Version Control
-
----
-
-# 🤖 AI & Product Development
-
-I'm particularly interested in building **AI-powered products that solve practical problems**.
-
-Areas I'm exploring:
+* Summaries
+* Important points
+* Decisions
+* Action items
+* Follow-ups
+* Conversation patterns
 
-* Generative AI
-* AI-powered applications
-* Conversation Intelligence
-* LLM-based products
-* AI-assisted workflows
-* Intelligent search
-* Personalization
-* AI + SaaS
-* AI + Consumer Applications
+↓
 
----
+🧠 Remember
 
-# 🧠 Product Thinking
+Build a structured history around important contacts and previous conversations.
 
-Beyond writing code, I enjoy working on the **product side of technology**.
+↓
 
-I’m interested in:
+⚡ Act
 
-* Problem discovery
-* Product architecture
-* User flows
-* MVP development
-* Feature prioritization
-* User feedback
-* Product-market validation
-* Growth systems
-* Business models
-* Technology strategy
+Use previous conversations to prepare for future discussions and turn information into meaningful actions.
 
-My focus is not simply:
+⸻
 
-> **"Can we build it?"**
+✨ The Idea
 
-but also:
+<div align="center">
 
-> **"Should we build it, why does it matter, and how can it create real value?"**
+🎙️ Conversation
 
----
+↓
 
-# 🔭 Currently Exploring
+📝 Transcript
 
-* 🤖 AI-powered applications
-* 🏗️ Scalable software architecture
-* 🧩 System design
-* 📱 Cross-platform application development
-* 🌐 Full-stack engineering
-* 🧠 Data Structures & Algorithms
-* ☁️ Cloud & deployment fundamentals
-* 📊 Data-driven products
-* 🚀 Startup infrastructure
-* 🛍️ Local commerce technology
+↓
 
----
+🧠 Intelligence
 
-# 💡 How I Build
+↓
 
-I believe in **learning through execution**.
+✅ Actions
 
-```text
-Problem
-   ↓
-Research
-   ↓
-Product Idea
-   ↓
-Architecture
-   ↓
-MVP
-   ↓
-Real Users
-   ↓
-Feedback
-   ↓
-Iteration
-   ↓
-Scale
-```
+↓
 
-I prefer:
+📚 Memory
 
-* Clean and understandable code
-* Simple architecture before unnecessary complexity
-* Reusable components
-* Clear product requirements
-* Real-world testing
-* Continuous iteration
-* Learning from failures
+</div>
 
----
+Don’t just record conversations. Turn them into useful intelligence.
 
+⸻
 
-# 🎓 Education
+🛍️ Niklit
 
-**B.Tech — Computer Science & Engineering**
+Discover Local. Shop Local. Grow Local.
 
-Currently pursuing my undergraduate degree while building products, exploring startups, and developing my software engineering skills.
+Niklit is a hyperlocal commerce platform designed to connect customers with local businesses.
 
----
+Instead of treating local shops as just another marketplace listing, Niklit focuses on helping businesses build their digital identity, customer relationships, loyalty, and commerce presence.
 
-# 🤝 Let's Connect
+🏪 For Businesses
 
-<p>
-  <a href="https://www.linkedin.com/in/prince-raj-a15519301/">
-    <img src="https://img.shields.io/badge/LinkedIn-Prince%20Raj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+Digital Store · Products · Orders · Customer Relationships · Analytics · Loyalty
 
-I'm always interested in conversations around:
+🛒 For Customers
 
-**Startups · AI · Software Engineering · Product Building · Technology · Collaboration**
+Discovery · Nearby Shops · Shopping · Offers · Coins · Orders · Reorder
 
----
+🌐 Long-Term Vision
 
-## ⚡ Build. Learn. Ship. Repeat.
+A digital operating system for local businesses.
 
-> **Turning ideas into products, and products into possibilities.**
+⸻
+
+🧪 How I Build
+
+<div align="center">
+        ┌───────────────────┐
+        │   REAL PROBLEM    │
+        └─────────┬─────────┘
+                  ↓
+        ┌───────────────────┐
+        │     RESEARCH      │
+        └─────────┬─────────┘
+                  ↓
+        ┌───────────────────┐
+        │  PRODUCT DESIGN   │
+        └─────────┬─────────┘
+                  ↓
+        ┌───────────────────┐
+        │    ARCHITECTURE   │
+        └─────────┬─────────┘
+                  ↓
+        ┌───────────────────┐
+        │     BUILD         │
+        └─────────┬─────────┘
+                  ↓
+        ┌───────────────────┐
+        │   REAL USERS      │
+        └─────────┬─────────┘
+                  ↓
+        ┌───────────────────┐
+        │     ITERATE       │
+        └───────────────────┘
+</div>
+
+⸻
+
+💻 Technology
+
+<div align="center">
+
+Languages
+
+<img src="https://skillicons.dev/icons?i=js,ts,java,python,html,css" />
+
+Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind" />
+
+Backend & Database
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,postgres,redis" />
+
+Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,figma,vercel" />
+</div>
+
+⸻
+
+🧠 Currently Exploring
+
+<div align="center">
+
+AI Engineering
+
+System Design
+
+DSA
+
+Distributed Systems
+
+Product Architecture
+
+Mobile Development
+
+Startup Building
+
+Developer Experience
+
+</div>
+
+⸻
+
+🪄 A Little More About How I Think
+
+<table>
+<tr>
+<td width="50%">
+
+🔍 Problem First
+
+I start with the problem, not the technology.
+
+</td>
+<td width="50%">
+
+🧩 Systems Thinking
+
+I like understanding how individual pieces connect into a complete system.
+
+</td>
+</tr>
+<tr>
+<td>
+
+⚙️ Build Fast
+
+Build → test → learn → improve.
+
+</td>
+<td>
+
+🌍 Think Long-Term
+
+Today’s MVP should leave room for tomorrow’s ecosystem.
+
+</td>
+</tr>
+</table>
+
+⸻
+
+📊 GitHub Activity
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Prince-Raj&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Prince-Raj&hide_border=true&theme=transparent" />
+</div>
+<br>
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prince-Raj&theme=react-dark&hide_border=true&area=true" width="95%" />
+</div>
+
+⸻
+
+🌌 Beyond Code
+
+I’m interested in the intersection of:
+
+<div align="center">
+
+Technology × Business × Design × People
+
+</div>
+
+The goal isn’t simply to become a better programmer.
+
+It’s to become better at building useful systems from zero.
+
+⸻
+
+<div align="center">
+
+🚀 Build something meaningful.
+
+— Prince Raj
+
+<br>
+<a href="https://www.linkedin.com/in/prince-raj-a15519301/">
+<img src="https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:2563EB,100:0F172A&height=120&section=footer" width="100%" />
+</div>
