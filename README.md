@@ -1,296 +1,180 @@
 <div align="center">
+<br>
+<img src="https://capsule-render.vercel.app/api?type=blur&height=220&color=0:050505,35:111827,70:312e81,100:050505&text=PRINCE%20RAJ&fontSize=58&fontColor=ffffff&fontAlignY=48&desc=FOUNDER%20%C2%B7%20PRODUCT%20BUILDER%20%C2%B7%20SOFTWARE%20DEVELOPER&descSize=13&descAlignY=68&descColor=9CA3AF&animation=fadeIn" width="100%"/>
+<br>
 
-⚡ PRINCE RAJ
+I build products from zero → real users.
 
-Founder · Product Builder · Software Developer
-
-I turn real-world problems into products, systems, and technology.
-
-AI · Commerce · Startups · Software Engineering
+AI · Commerce · Startup Ecosystems · Software
 
 <br>
 <a href="https://www.linkedin.com/in/prince-raj-a15519301/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LINKEDIN-FFFFFF?style=flat-square&logo=linkedin&logoColor=000000" />
 </a>
+&nbsp;
 <a href="https://github.com/">
-  <img src="https://img.shields.io/badge/GitHub-Explore-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GITHUB-FFFFFF?style=flat-square&logo=github&logoColor=000000" />
 </a>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:7C3AED&height=180&section=header&text=Build.%20Experiment.%20Ship.&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=55" width="100%" />
 </div>
 
 ⸻
 
-🧭 About Me
+01 / THE BUILDER
 
-I’m Prince Raj, a founder, product builder, and software developer focused on building technology products across:
+I’m Prince Raj — a founder, product builder, and software developer.
 
-AI                 → Intelligent products & automation
-Commerce           → Local commerce & digital businesses
-Startup Ecosystems → Platforms connecting people & opportunities
-Software           → Web · Mobile · APIs · Databases
-Product Engineering → Ideas → Systems → Real Users
-
-I enjoy working across the entire product lifecycle:
-
-Problem → Research → Product → UX → Architecture → Development → Testing → Launch → Iteration
-
-I don’t just want to write code.
-
-I want to build things that people actually use.
-
-⸻
-
-🚀 What I’m Building
+I work across the complete product cycle:
 
 <div align="center">
 
-Product	Focus	Status
-⚡ Monterus X	Startup Ecosystem	🚧 Building
-🧠 SRS Vault AI	Conversation Intelligence	🚧 Building
-🛍️ Niklit	Local Commerce	🚧 Building
+PROBLEM
+
+↓
+
+RESEARCH
+
+↓
+
+PRODUCT
+
+↓
+
+DESIGN
+
+↓
+
+ENGINEERING
+
+↓
+
+LAUNCH
+
+↓
+
+ITERATE
 
 </div>
 
+I’m particularly interested in the space where technology meets real-world problems.
+
+Rather than building software for the sake of software, I like taking an idea, breaking it into systems, building the product, putting it in front of users, and learning from what happens next.
+
 ⸻
 
-⚡ Monterus X
+02 / CURRENTLY BUILDING
+
+<div align="center">
+<table>
+<tr>
+<td width="33%" valign="top">
+<h2>MONTERUS X</h2>
+
+STARTUP ECOSYSTEM
+
+A digital ecosystem connecting the people and infrastructure around startups.
+
+STARTUPS
+INVESTORS
+CREATORS
+ADVERTISERS
+DEVELOPERS
 
 Where Startups Meet Their People.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1020,50:172554,100:312E81&height=120&section=header&text=MONTERUS%20X&fontSize=34&fontColor=ffffff&animation=fadeIn" width="100%" />
+</td>
+<td width="33%" valign="top">
+<h2>SRS VAULT AI</h2>
 
-Monterus X is a startup ecosystem designed around startups, investors, advertisers, creators, and developers.
+CONVERSATION INTELLIGENCE
 
-The vision is to create a digital ecosystem where startups can:
+An AI system that transforms conversations into structured knowledge and actionable intelligence.
 
-* Discover the right people
-* Build visibility
-* Find growth opportunities
-* Connect with talent and creators
-* Manage ecosystem activity
-* Build meaningful business relationships
+RECORD
+TRANSCRIBE
+UNDERSTAND
+REMEMBER
+ACT
 
-🧩 Ecosystem
+Turn conversations into intelligence.
 
-<div align="center">
+</td>
+<td width="33%" valign="top">
+<h2>NIKLIT</h2>
 
-STARTUPS　INVESTORS　ADVERTISERS　CREATORS　DEVELOPERS
+LOCAL COMMERCE
 
-</div>
+A hyperlocal commerce platform connecting customers with the businesses around them.
 
-🔧 Core Infrastructure
-
-<div align="center">
-
-🚀 Core Engine	🎨 Creator Dock	🗄️ Data Vault	💳 Wallet Ledger
-Startup infrastructure	Creator ecosystem	Data layer	Transaction infrastructure
-
-</div>
-
-⸻
-
-🧠 SRS Vault AI
-
-AI-powered Conversation Intelligence
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,50:312E81,100:4C1D95&height=120&section=header&text=SRS%20VAULT%20AI&fontSize=34&fontColor=ffffff&animation=fadeIn" width="100%" />
-
-SRS Vault AI transforms conversations into structured, searchable, and actionable intelligence.
-
-🎙️ Capture
-
-Consent-based conversation recording and transcription.
-
-↓
-
-🤖 Understand
-
-AI extracts:
-
-* Summaries
-* Important points
-* Decisions
-* Action items
-* Follow-ups
-* Conversation patterns
-
-↓
-
-🧠 Remember
-
-Build a structured history around important contacts and previous conversations.
-
-↓
-
-⚡ Act
-
-Use previous conversations to prepare for future discussions and turn information into meaningful actions.
-
-⸻
-
-✨ The Idea
-
-<div align="center">
-
-🎙️ Conversation
-
-↓
-
-📝 Transcript
-
-↓
-
-🧠 Intelligence
-
-↓
-
-✅ Actions
-
-↓
-
-📚 Memory
-
-</div>
-
-Don’t just record conversations. Turn them into useful intelligence.
-
-⸻
-
-🛍️ Niklit
+DISCOVER
+SHOP
+LOYALTY
+ORDERS
+GROW
 
 Discover Local. Shop Local. Grow Local.
 
-Niklit is a hyperlocal commerce platform designed to connect customers with local businesses.
-
-Instead of treating local shops as just another marketplace listing, Niklit focuses on helping businesses build their digital identity, customer relationships, loyalty, and commerce presence.
-
-🏪 For Businesses
-
-Digital Store · Products · Orders · Customer Relationships · Analytics · Loyalty
-
-🛒 For Customers
-
-Discovery · Nearby Shops · Shopping · Offers · Coins · Orders · Reorder
-
-🌐 Long-Term Vision
-
-A digital operating system for local businesses.
-
-⸻
-
-🧪 How I Build
-
-<div align="center">
-        ┌───────────────────┐
-        │   REAL PROBLEM    │
-        └─────────┬─────────┘
-                  ↓
-        ┌───────────────────┐
-        │     RESEARCH      │
-        └─────────┬─────────┘
-                  ↓
-        ┌───────────────────┐
-        │  PRODUCT DESIGN   │
-        └─────────┬─────────┘
-                  ↓
-        ┌───────────────────┐
-        │    ARCHITECTURE   │
-        └─────────┬─────────┘
-                  ↓
-        ┌───────────────────┐
-        │     BUILD         │
-        └─────────┬─────────┘
-                  ↓
-        ┌───────────────────┐
-        │   REAL USERS      │
-        └─────────┬─────────┘
-                  ↓
-        ┌───────────────────┐
-        │     ITERATE       │
-        └───────────────────┘
+</td>
+</tr>
+</table>
 </div>
 
 ⸻
 
-💻 Technology
+03 / MONTERUS X
 
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=100&color=0:050505,50:172554,100:312e81&text=MONTERUS%20X&fontSize=34&fontColor=ffffff&fontAlignY=55" width="100%"/>
 
-Languages
-
-<img src="https://skillicons.dev/icons?i=js,ts,java,python,html,css" />
-
-Frontend
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind" />
-
-Backend & Database
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,postgres,redis" />
-
-Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,figma,vercel" />
-</div>
-
-⸻
-
-🧠 Currently Exploring
-
-<div align="center">
-
-AI Engineering
-
-System Design
-
-DSA
-
-Distributed Systems
-
-Product Architecture
-
-Mobile Development
-
-Startup Building
-
-Developer Experience
+WHERE STARTUPS MEET THEIR PEOPLE.
 
 </div>
 
-⸻
+Monterus X is being built as an ecosystem for the people, opportunities, and infrastructure surrounding startups.
 
-🪄 A Little More About How I Think
+The ecosystem
+
+                         MONTERUS X
+                              │
+          ┌───────────────────┼───────────────────┐
+          │                   │                   │
+       STARTUPS            PEOPLE             GROWTH
+          │                   │                   │
+     ┌────┼────┐        ┌─────┼─────┐       ┌────┼────┐
+     │    │    │        │     │     │       │    │    │
+   Founders Teams     Investors Creators Developers Advertising
+
+Core Infrastructure
 
 <table>
 <tr>
-<td width="50%">
+<td align="center">
 
-🔍 Problem First
+CORE ENGINE
 
-I start with the problem, not the technology.
+Product & ecosystem infrastructure
 
 </td>
-<td width="50%">
+<td align="center">
 
-🧩 Systems Thinking
+CREATOR DOCK
 
-I like understanding how individual pieces connect into a complete system.
+Creator & growth layer
 
 </td>
 </tr>
 <tr>
-<td>
+<td align="center">
 
-⚙️ Build Fast
+DATA VAULT
 
-Build → test → learn → improve.
+Structured ecosystem data
 
 </td>
-<td>
+<td align="center">
 
-🌍 Think Long-Term
+WALLET LEDGER
 
-Today’s MVP should leave room for tomorrow’s ecosystem.
+Digital transaction infrastructure
 
 </td>
 </tr>
@@ -298,44 +182,315 @@ Today’s MVP should leave room for tomorrow’s ecosystem.
 
 ⸻
 
-📊 GitHub Activity
+04 / SRS VAULT AI
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Prince-Raj&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Prince-Raj&hide_border=true&theme=transparent" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=100&color=0:050505,50:1E1B4B,100:4C1D95&text=SRS%20VAULT%20AI&fontSize=32&fontColor=ffffff&fontAlignY=55" width="100%"/>
+
+CONVERSATION → INTELLIGENCE
+
+<br>
+<table>
+<tr>
+<td align="center">
+
+01
+
+CAPTURE
+
+Consent-based
+conversation recording
+
+</td>
+<td align="center">→</td>
+<td align="center">
+
+02
+
+TRANSCRIBE
+
+Convert conversations
+into structured text
+
+</td>
+<td align="center">→</td>
+<td align="center">
+
+03
+
+UNDERSTAND
+
+AI summaries, decisions,
+patterns & insights
+
+</td>
+<td align="center">→</td>
+<td align="center">
+
+04
+
+ACT
+
+Actions, follow-ups
+& future preparation
+
+</td>
+</tr>
+</table>
+</div>
+
+The long-term idea
+
+Conversations contain information that disappears surprisingly quickly.
+
+SRS Vault AI is designed to turn that information into a personal conversation memory layer — helping people remember what was discussed, understand what matters, and prepare for what comes next.
+
+        CONVERSATION
+              │
+              ▼
+        ┌───────────┐
+        │ TRANSCRIPT│
+        └─────┬─────┘
+              │
+       ┌──────┼──────┐
+       ▼      ▼      ▼
+    SUMMARY  DECISIONS  INSIGHTS
+       │      │      │
+       └──────┼──────┘
+              ▼
+         ACTION ITEMS
+              │
+              ▼
+       CONVERSATION MEMORY
+
+⸻
+
+05 / NIKLIT
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=100&color=0:050505,50:431407,100:9A3412&text=NIKLIT&fontSize=34&fontColor=ffffff&fontAlignY=55" width="100%"/>
+
+DISCOVER LOCAL. SHOP LOCAL. GROW LOCAL.
+
+</div>
+
+Niklit is being built around a simple idea:
+
+Local businesses should have the same digital opportunities as larger platforms.
+
+The product connects customers, local shops, orders, discovery, loyalty and digital business infrastructure into one ecosystem.
+
+Customer side
+
+DISCOVER
+   ↓
+NEARBY SHOPS
+   ↓
+PRODUCTS
+   ↓
+CART
+   ↓
+CHECKOUT
+   ↓
+ORDER
+   ↓
+LOYALTY
+   ↓
+REORDER
+
+Business side
+
+DIGITAL STORE
+      ↓
+CATALOG
+      ↓
+ORDERS
+      ↓
+CUSTOMERS
+      ↓
+LOYALTY
+      ↓
+ANALYTICS
+      ↓
+GROWTH
+
+Long-term direction
+
+<div align="center">
+
+A DIGITAL OPERATING SYSTEM
+
+FOR LOCAL BUSINESSES
+
+</div>
+
+⸻
+
+06 / HOW I THINK ABOUT PRODUCTS
+
+<table>
+<tr>
+<td width="50%">
+
+START WITH THE PROBLEM
+
+Technology is the tool.
+
+The problem is the starting point.
+
+</td>
+<td width="50%">
+
+BUILD THE SYSTEM
+
+A product is more than a UI.
+
+It is the interaction between people, data, infrastructure and workflows.
+
+</td>
+</tr>
+<tr>
+<td>
+
+SHIP EARLY
+
+Real users reveal things that planning cannot.
+
+</td>
+<td>
+
+ITERATE CONSTANTLY
+
+Build → measure → learn → improve.
+
+</td>
+</tr>
+</table>
+
+⸻
+
+07 / ENGINEERING
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=javascript,typescript,java,python,react,nextjs,nodejs,express,vite,tailwind,postgres,mongodb,redis,docker,git,github,figma&perline=9" />
 </div>
 <br>
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prince-Raj&theme=react-dark&hide_border=true&area=true" width="95%" />
+<table>
+<tr>
+<td align="center">
+
+FRONTEND
+
+React · Next.js · Vite · Tailwind
+
+</td>
+<td align="center">
+
+BACKEND
+
+Node.js · APIs · Authentication
+
+</td>
+<td align="center">
+
+DATA
+
+PostgreSQL · MongoDB · Redis
+
+</td>
+</tr>
+</table>
 </div>
 
 ⸻
 
-🌌 Beyond Code
-
-I’m interested in the intersection of:
+08 / CURRENTLY EXPLORING
 
 <div align="center">
 
-Technology × Business × Design × People
+AI ENGINEERING
+
+  ·  
+
+SYSTEM DESIGN
+
+  ·  
+
+DSA
+
+  ·  
+
+DISTRIBUTED SYSTEMS
+
+PRODUCT ARCHITECTURE
+
+  ·  
+
+MOBILE DEVELOPMENT
+
+  ·  
+
+STARTUP BUILDING
 
 </div>
 
-The goal isn’t simply to become a better programmer.
+⸻
 
-It’s to become better at building useful systems from zero.
+09 / THE BIGGER PICTURE
+
+<div align="center">
+<br>
+
+TECHNOLOGY
+
+↓
+
+PRODUCT
+
+↓
+
+PEOPLE
+
+↓
+
+BUSINESS
+
+↓
+
+IMPACT
+
+<br>
+</div>
+
+I’m interested in building at the intersection of these layers.
+
+The goal isn’t simply to write more code.
+
+It is to become better at understanding problems, designing systems, building products, and turning ideas into something real.
+
+⸻
+
+10 / GITHUB
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Prince-Raj&show_icons=true&hide_border=true&theme=transparent&title_color=ffffff&text_color=9ca3af&icon_color=8b5cf6" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Prince-Raj&hide_border=true&theme=transparent&ring=8b5cf6&fire=8b5cf6&currStreakLabel=ffffff" width="48%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prince-Raj&bg_color=00000000&color=9ca3af&line=8b5cf6&point=ffffff&area=true&hide_border=true" width="95%"/>
+</div>
 
 ⸻
 
 <div align="center">
+<br>
 
-🚀 Build something meaningful.
+BUILDING FROM ZERO.
 
-— Prince Raj
+ONE PRODUCT · ONE SYSTEM · ONE ITERATION AT A TIME.
 
 <br>
 <a href="https://www.linkedin.com/in/prince-raj-a15519301/">
-<img src="https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/CONNECT%20WITH%20ME-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=000000" />
 </a>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:2563EB,100:0F172A&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:111827,100:050505&height=130&section=footer" width="100%"/>
 </div>
