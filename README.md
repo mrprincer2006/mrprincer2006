@@ -58,9 +58,9 @@ SRS Vault AI transforms conversations into structured, actionable intelligence. 
 
 <br>
 
-<img src="assets/niklit.svg" alt="Niklit. Hyperlocal delivery." width="100%">
+<img src="assets/niklit.svg" alt="BUYFLIT. Hyperlocal delivery." width="100%">
 
-Niklit is a hyperlocal delivery app, built around what is close to you.
+BUYFLIT is a hyperlocal delivery app, built around what is close to you.
 
 <br>
 
